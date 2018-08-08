@@ -23,7 +23,7 @@ Before you begin working on this project, please do the following:
 
 1. Sign up for an account on [Kaggle](https://www.kaggle.com/)
 2. **IMPORTANT**: Click this link ([Regression Challenge Sign Up](https://www.kaggle.com/t/ef1b2451fd2c4efc9292b5d5821c1c7e)) to **join** the competition (otherwise you will not be able to make submissions!)
-3. Review the material on the [DSI-US-4 Regression Challenge](https://www.kaggle.com/c/dsi-us-4-project-2-regression-challenge)
+3. Review the material on the [DSI-US-5 Regression Challenge](https://www.kaggle.com/c/dsi-us-5-project-2-regression-challenge)
 
 ## The Modeling Process
 
@@ -41,7 +41,7 @@ Before you begin working on this project, please do the following:
 We expect the following to be submitted by end of day on the due date.
 
 1. Your code for the regression model, including your exploratory data analysis. Add your (well organized!) notebooks to this repository and submit a pull request.
-2. At least one successful prediction submission on [DSI-US-4 Regression Challenge](https://www.kaggle.com/c/dsi-us-4-project-2-regression-challenge) --  you should see your name in the "[Leaderboard](https://www.kaggle.com/c/dsi-us-4-project-2-regression-challenge/leaderboard)" tab.
+2. At least one successful prediction submission on [DSI-US-5 Regression Challenge](https://www.kaggle.com/c/dsi-us-5-project-2-regression-challenge) --  you should see your name in the "[Leaderboard](https://www.kaggle.com/c/dsi-us-5-project-2-regression-challenge/leaderboard)" tab.
 3. Check the Project Feedback + Evaluation section (below) to ensure that you know what will factor into the evaluation of your work.
 
 ## Project Feedback + Evaluation
