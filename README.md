@@ -22,7 +22,7 @@ Secondly, we are hosting a competition on Kaggle to give you the opportunity to 
 Before you begin working on this project, please do the following:
 
 1. Sign up for an account on [Kaggle](https://www.kaggle.com/)
-2. **IMPORTANT**: Click this link ([Regression Challenge Sign Up](https://www.kaggle.com/t/ef1b2451fd2c4efc9292b5d5821c1c7e)) to **join** the competition (otherwise you will not be able to make submissions!)
+2. **IMPORTANT**: Click this link ([Regression Challenge Sign Up](https://www.kaggle.com/t/378b31fc149442439eefeb1028d841fa)) to **join** the competition (otherwise you will not be able to make submissions!)
 3. Review the material on the [DSI-US-5 Regression Challenge](https://www.kaggle.com/c/dsi-us-5-project-2-regression-challenge)
 
 ## The Modeling Process
