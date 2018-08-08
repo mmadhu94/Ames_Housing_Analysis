@@ -1,6 +1,6 @@
 # Project 2 - Ames Housing Data and Kaggle Challenge
 
-Due Date: **TODO: ADD DUE DATE**
+Due Date: **Friday, August 24th, 2018**
 
 Welcome to Project 2! It's time to start modeling.
 
